@@ -1,0 +1,29 @@
+{
+  "name": "mongoose-acid-plus",
+  "version": "0.0.1",
+  "description": ":fire: mongoose transaction helper plus",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtboy1995/mongoose-acid-plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "mongoose": "^5.9.14"
+  },
+  "bugs": {
+    "url": "https://github.com/dtboy1995/mongoose-acid-plus/issues"
+  },
+  "homepage": "https://github.com/dtboy1995/mongoose-acid-plus#readme",
+  "dependencies": {
+    "@babel/generator": "^7.9.6",
+    "@babel/parser": "^7.9.6",
+    "@babel/traverse": "^7.9.6",
+    "@babel/types": "^7.9.6"
+  }
+}
